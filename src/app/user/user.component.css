@@ -1,7 +1,11 @@
 
 .rowUser{
     padding: 1px 0;
-    background-color: red;
+    background-color: aqua;
     /* width: 40%;
     float: right; */
+    cursor:pointer;
+  }
+  .userList{
+    background-color: aqua;
   }
